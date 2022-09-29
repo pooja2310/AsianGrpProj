@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a384049b-d25b-4609-aeaa-7f7759ae510f" name="Changes" comment="">
+    <list default="true" id="a384049b-d25b-4609-aeaa-7f7759ae510f" name="Changes" comment="Files added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/LoginRegister/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LoginRegister/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/config/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +158,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664299400317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Files added">
+      <created>1664450659339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664450659339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files added" />
   </component>
 </project>
