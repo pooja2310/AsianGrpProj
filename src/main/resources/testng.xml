@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ASIANS USER SYSTEM Test Automation Test Suite">
+
+
+
+    <test name="Asian group test cases">
+        <classes>
+            <class name="LoginTest"></class>
+        </classes>
+    </test>
+
+    <test name="Asian group test cases">
+        <classes>
+            <class name="RegisterTest"></class>
+        </classes>
+    </test>
+</suite>

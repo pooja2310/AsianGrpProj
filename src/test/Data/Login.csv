@@ -1,0 +1,4 @@
+TestCase,TestRun,Desc,email, pwd,Actions,Errors
+TC1,Y,Enter correct email id and password for login,kanavajepooja@gmail.com,Gym@2310,loginTest,NA
+TC2,Y,Enter Incorrect email id and correct password for login,abc@gmail.com,Gym@2310,loginTest,"Invalid username or password."
+TC3,Y,Enter correct email id and Incorrect password for login,kanavajepooja@gmail.com,abc@2310,loginTest,"Invalid username or password."
